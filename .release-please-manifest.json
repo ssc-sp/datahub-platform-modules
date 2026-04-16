@@ -1,4 +1,4 @@
 {
   "terraform/enhanced": "0.0.0",
-  "terraform/generic": "0.0.0"
+  "terraform/generic": "0.1.0"
 }
