@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "terraform/enhanced": {
+      "release-type": "terraform-module",
+      "component": "enhanced"
+    },
+    "terraform/generic": {
+      "release-type": "terraform-module",
+      "component": "generic"
+    }
+  }
+}
